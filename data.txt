@@ -2,3 +2,5 @@ Name: Lara
 Age: 29
 Favorite Color: Blue
 Location: Portugal
+Eyes color: Brown
+Hair color: Dark brown
