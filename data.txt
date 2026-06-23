@@ -4,3 +4,4 @@ Favorite Color: Blue
 Location: Portugal
 Eyes color: Brown
 Hair color: Dark brown
+Month of birth: March
